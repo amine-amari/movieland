@@ -25,7 +25,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="app">
       <h1>MovieLand</h1>
 
       <div className ="search">
